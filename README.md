@@ -2,7 +2,6 @@
 <div align="center">
 :raising_hand: 동대 멋사인들의 원활한 협업을 위해 권장하는 커밋 방법입니다! :raising_hand:
   </div>
-<hr>
 
 <h1>Commit_Type</h1>
 <p>- feat : 새로운 기능 추가</p>
